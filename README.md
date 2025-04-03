@@ -6,6 +6,7 @@
 Atualmente, sou estagiário de TI no Conselho Federal de Química, onde atuo no desenvolvimento e manutenção de projetos web, administração de servidores Linux e configuração de ambientes na Oracle Cloud. Tenho experiência com PHP, JavaScript, React, Linux, Docker e outras tecnologias.
 
 📚 Formação
+<br/>
 🎓 Ciência da Computação - Universidade Católica de Brasília (2023 - 2026)
 
 ### 🤖 Linguagens e Tecnologias
@@ -104,7 +105,7 @@ Atualmente, sou estagiário de TI no Conselho Federal de Química, onde atuo no 
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -120,7 +121,7 @@ Atualmente, sou estagiário de TI no Conselho Federal de Química, onde atuo no 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -136,7 +137,7 @@ Atualmente, sou estagiário de TI no Conselho Federal de Química, onde atuo no 
     title="Jenkins"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Jenkins/Jenkins-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
 />
 
 <br/>
