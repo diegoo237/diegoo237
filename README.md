@@ -3,6 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 🚀 Sobre mim
+<br/>
 Atualmente, sou estagiário de TI no Conselho Federal de Química, onde atuo no desenvolvimento e manutenção de projetos web, administração de servidores Linux e configuração de ambientes na Oracle Cloud. Tenho experiência com PHP, JavaScript, React, Linux, Docker e outras tecnologias.
 
 📚 Formação
