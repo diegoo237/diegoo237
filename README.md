@@ -4,11 +4,13 @@
 
 🚀 Sobre mim
 <br/>
-Atualmente, sou estagiário de TI no Conselho Federal de Química, onde atuo no desenvolvimento e manutenção de projetos web, administração de servidores Linux e configuração de ambientes na Oracle Cloud. Tenho experiência com PHP, JavaScript, React, Linux, Docker e outras tecnologias.
+Sou estagiário de TI no Conselho Federal de Química, atuando no desenvolvimento e manutenção de aplicações web com foco em qualidade de código e boas práticas de engenharia de software. Tenho experiência com React, Redux, Node.js, Docker e MongoDB, aplicando princípios como SOLID, Clean Code e Design Patterns para garantir soluções escaláveis e eficientes. Também realizo administração de servidores Linux e configuração de ambientes em nuvem, com ênfase na Oracle Cloud e integração contínua via Docker e Jenkins.
 
 📚 Formação
 <br/>
-🎓 Ciência da Computação - Universidade Católica de Brasília (2023 - 2026)
+Bacharelado em Ciência da Computação<br/>
+Universidade Católica de Brasília – UCB<br/>
+Março de 2023 – Julho de 2027 (em andamento)<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
