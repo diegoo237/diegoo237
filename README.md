@@ -1,18 +1,19 @@
 ## Diego Oliveira de Carvalho
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-🚀 Sobre mim
+🚀 About me
 <br/>
-Sou estagiário de TI no Conselho Federal de Química, atuando no desenvolvimento e manutenção de aplicações web com foco em qualidade de código e boas práticas de engenharia de software. Tenho experiência com React, Redux, Node.js, Docker e MongoDB, aplicando princípios como SOLID, Clean Code e Design Patterns para garantir soluções escaláveis e eficientes. Também realizo administração de servidores Linux e configuração de ambientes em nuvem, com ênfase na Oracle Cloud e integração contínua via Docker e Jenkins.
+Full Stack Developer focused on code quality and software engineering best practices. I have experience with React, Redux, Node.js, Docker, and MongoDB, applying principles such as SOLID, Clean Code, and Design Patterns to ensure scalable and efficient solutions. I also manage Linux servers and configure cloud environments, with an emphasis on Oracle Cloud and continuous integration using Docker and Jenkins.
 
-📚 Formação
+📚 Formation
 <br/>
-Bacharelado em Ciência da Computação<br/>
-Universidade Católica de Brasília – UCB<br/>
-Março de 2023 – Julho de 2027 (em andamento)<br/>
+Bachelor’s Degree in Computer Science<br/>
+Catholic University of Brasília – UCB<br/>
+March 2023 – July 2027 (in progress)<br/>
 
-### 🤖 Linguagens e Tecnologias
+
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
